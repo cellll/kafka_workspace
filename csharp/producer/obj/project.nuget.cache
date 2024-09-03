@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rMK9Y7VLoD2igAoCy3d6vLIAFFtI4QCbkXLX0EuqR28kf6q4l3Lrjibz2NZA7CSX1ERgscqnbDivabvrtRasQw==",
+  "success": true,
+  "projectFilePath": "/Users/ce/Desktop/Development/csharp/release_test/release_test.csproj",
+  "expectedPackageFiles": [
+    "/Users/ce/.nuget/packages/confluent.kafka/1.9.3/confluent.kafka.1.9.3.nupkg.sha512",
+    "/Users/ce/.nuget/packages/librdkafka.redist/1.9.2/librdkafka.redist.1.9.2.nupkg.sha512",
+    "/Users/ce/.nuget/packages/opencvsharp4/4.6.0.20220608/opencvsharp4.4.6.0.20220608.nupkg.sha512",
+    "/Users/ce/.nuget/packages/opencvsharp4.runtime.osx.10.15-x64/4.6.0.20220608/opencvsharp4.runtime.osx.10.15-x64.4.6.0.20220608.nupkg.sha512",
+    "/Users/ce/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/ce/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
